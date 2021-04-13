@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49e1d803-9cf3-4387-9f61-f7e212c3f74f" name="Default Changelist" comment="code formatting">
+      <change afterPath="$PROJECT_DIR$/US60 TEST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/US60.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_stories.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_stories.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_stories_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_stories_test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="18fab6cf-b852-42c8-85d7-d1a5ab1e733c" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iU5MP9e6hbXMWLzwNn4WXYYoIM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in US60 TEST.py">
+    <configuration type="PythonConfigurationType" factoryName="Python">
+      <module name="Parse-GEDCOM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Parse-GEDCOM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="US60" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Parse-GEDCOM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/US60.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for user_stories_test.TestApp.test_boys_gender_check" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Parse-GEDCOM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;user_stories_test.TestApp.test_boys_gender_check&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for user_stories_test.TestApp.test_list_of_twins" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Parse-GEDCOM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;user_stories_test.TestApp.test_list_of_twins&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for user_stories_test.TestApp.test_step_sib_birth_diff" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Parse-GEDCOM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;user_stories_test.TestApp.test_step_sib_birth_diff&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in US60 TEST.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Parse-GEDCOM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/US60 TEST.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for user_stories_test.TestApp.test_list_of_twins" />
+      <item itemvalue="Python tests.Unittests for user_stories_test.TestApp.test_step_sib_birth_diff" />
+      <item itemvalue="Python tests.Unittests for user_stories_test.TestApp.test_boys_gender_check" />
+      <item itemvalue="Python.US60" />
+      <item itemvalue="Python tests.Unittests in US60 TEST.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in US60 TEST.py" />
+        <item itemvalue="Python.US60" />
+        <item itemvalue="Python tests.Unittests for user_stories_test.TestApp.test_boys_gender_check" />
+        <item itemvalue="Python tests.Unittests for user_stories_test.TestApp.test_step_sib_birth_diff" />
+        <item itemvalue="Python tests.Unittests for user_stories_test.TestApp.test_list_of_twins" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="code formatting">
+      <created>1601946563559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601946563560</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49e1d803-9cf3-4387-9f61-f7e212c3f74f" name="Default Changelist" comment="code formatting" />
+      <created>1601949281486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601949281486</updated>
+      <workItem from="1604965117393" duration="4729000" />
+    </task>
+    <task id="LOCAL-00002" summary="code formatting">
+      <created>1606775584429</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606775584429</updated>
+    </task>
+    <task id="LOCAL-00003" summary="code formatting">
+      <created>1606777880363</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606777880363</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="code formatting" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="165" y="11" key="#Project_Structure" timestamp="1606775180641">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="165" y="11" key="#Project_Structure/0.0.1368.872@0.0.1368.872" timestamp="1606775180641" />
+    <state x="199" y="71" width="1086" height="784" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604965322292">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="199" y="71" width="1086" height="784" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1604965322292" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604887117092" />
+    <state x="9" y="262" width="1350" height="678" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1604632832265">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="9" y="262" width="1350" height="678" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.864/0.1080.1920.515@0.0.1536.864" timestamp="1604632832265" />
+    <state x="499" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604382819808">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/0.1080.1842.515@0.0.1536.824" timestamp="1601946482714" />
+    <state x="499" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864/0.1080.1920.515@0.0.1536.864" timestamp="1604382819808" />
+    <state width="663" height="229" key="GridCell.Tab.0.bottom" timestamp="1606783256096">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="663" height="229" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1606783256096" />
+    <state width="1515" height="95" key="GridCell.Tab.0.bottom/0.0.1536.824/0.1080.1842.515@0.0.1536.824" timestamp="1601948803630" />
+    <state width="1515" height="286" key="GridCell.Tab.0.bottom/0.0.1536.824/0.1080.1920.515@0.0.1536.824" timestamp="1606625535508" />
+    <state width="1514" height="280" key="GridCell.Tab.0.bottom/0.0.1536.864/0.1080.1920.515/-1920.0.1536.864@-1920.0.1536.864" timestamp="1604643417694" />
+    <state width="1514" height="271" key="GridCell.Tab.0.bottom/0.0.1536.864/0.1080.1920.515@0.0.1536.864" timestamp="1604694826667" />
+    <state width="663" height="229" key="GridCell.Tab.0.center" timestamp="1606783256096">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="663" height="229" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1606783256096" />
+    <state width="1515" height="95" key="GridCell.Tab.0.center/0.0.1536.824/0.1080.1842.515@0.0.1536.824" timestamp="1601948803630" />
+    <state width="1515" height="286" key="GridCell.Tab.0.center/0.0.1536.824/0.1080.1920.515@0.0.1536.824" timestamp="1606625535508" />
+    <state width="1514" height="280" key="GridCell.Tab.0.center/0.0.1536.864/0.1080.1920.515/-1920.0.1536.864@-1920.0.1536.864" timestamp="1604643417694" />
+    <state width="1514" height="271" key="GridCell.Tab.0.center/0.0.1536.864/0.1080.1920.515@0.0.1536.864" timestamp="1604694826666" />
+    <state width="663" height="229" key="GridCell.Tab.0.left" timestamp="1606783256096">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="663" height="229" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1606783256096" />
+    <state width="1515" height="95" key="GridCell.Tab.0.left/0.0.1536.824/0.1080.1842.515@0.0.1536.824" timestamp="1601948803630" />
+    <state width="1515" height="286" key="GridCell.Tab.0.left/0.0.1536.824/0.1080.1920.515@0.0.1536.824" timestamp="1606625535508" />
+    <state width="1514" height="280" key="GridCell.Tab.0.left/0.0.1536.864/0.1080.1920.515/-1920.0.1536.864@-1920.0.1536.864" timestamp="1604643417694" />
+    <state width="1514" height="271" key="GridCell.Tab.0.left/0.0.1536.864/0.1080.1920.515@0.0.1536.864" timestamp="1604694826666" />
+    <state width="663" height="229" key="GridCell.Tab.0.right" timestamp="1606783256096">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="663" height="229" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1606783256096" />
+    <state width="1515" height="95" key="GridCell.Tab.0.right/0.0.1536.824/0.1080.1842.515@0.0.1536.824" timestamp="1601948803630" />
+    <state width="1515" height="286" key="GridCell.Tab.0.right/0.0.1536.824/0.1080.1920.515@0.0.1536.824" timestamp="1606625535508" />
+    <state width="1514" height="280" key="GridCell.Tab.0.right/0.0.1536.864/0.1080.1920.515/-1920.0.1536.864@-1920.0.1536.864" timestamp="1604643417694" />
+    <state width="1514" height="271" key="GridCell.Tab.0.right/0.0.1536.864/0.1080.1920.515@0.0.1536.864" timestamp="1604694826666" />
+    <state width="1514" height="271" key="GridCell.Tab.1.bottom" timestamp="1604694826667">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="271" key="GridCell.Tab.1.bottom/0.0.1536.864/0.1080.1920.515/-1920.0.1536.864@-1920.0.1536.864" timestamp="1604642505276" />
+    <state width="1514" height="271" key="GridCell.Tab.1.bottom/0.0.1536.864/0.1080.1920.515@0.0.1536.864" timestamp="1604694826667" />
+    <state width="1514" height="271" key="GridCell.Tab.1.center" timestamp="1604694826667">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="271" key="GridCell.Tab.1.center/0.0.1536.864/0.1080.1920.515/-1920.0.1536.864@-1920.0.1536.864" timestamp="1604642505276" />
+    <state width="1514" height="271" key="GridCell.Tab.1.center/0.0.1536.864/0.1080.1920.515@0.0.1536.864" timestamp="1604694826667" />
+    <state width="1514" height="271" key="GridCell.Tab.1.left" timestamp="1604694826667">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="271" key="GridCell.Tab.1.left/0.0.1536.864/0.1080.1920.515/-1920.0.1536.864@-1920.0.1536.864" timestamp="1604642505276" />
+    <state width="1514" height="271" key="GridCell.Tab.1.left/0.0.1536.864/0.1080.1920.515@0.0.1536.864" timestamp="1604694826667" />
+    <state width="1514" height="271" key="GridCell.Tab.1.right" timestamp="1604694826667">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="271" key="GridCell.Tab.1.right/0.0.1536.864/0.1080.1920.515/-1920.0.1536.864@-1920.0.1536.864" timestamp="1604642505276" />
+    <state width="1514" height="271" key="GridCell.Tab.1.right/0.0.1536.864/0.1080.1920.515@0.0.1536.864" timestamp="1604694826667" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1604887151971">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604887151971" />
+    <state x="322" y="153" key="Vcs.Push.Dialog.v2" timestamp="1606783347421">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="322" y="153" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1606783347421" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/0.1080.1842.515@0.0.1536.824" timestamp="1601946570475" />
+    <state x="502" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606781798813">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="502" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872@0.0.1368.872" timestamp="1606781798813" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project$Unittests_for_US59_Test_TestApp_test_mrgeAftr18.coverage" NAME="Unittests for US59_Test.TestApp.test_mrgeAftr18 Coverage Results" MODIFIED="1606768371112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$US59.coverage" NAME="US59 Coverage Results" MODIFIED="1606768124944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$user_stories.coverage" NAME="user_stories Coverage Results" MODIFIED="1606768554854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$Unittests_in_user_stories_test_py.coverage" NAME="Unittests in user_stories_test.py Coverage Results" MODIFIED="1606768531804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$Unittests_in_US60_TEST_py.coverage" NAME="Unittests in US60 TEST.py Coverage Results" MODIFIED="1606783256079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$US60.coverage" NAME="US60 Coverage Results" MODIFIED="1606780633352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$Unittests_for_US59_Test_TestApp.coverage" NAME="Unittests for US59_Test.TestApp Coverage Results" MODIFIED="1606768483689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
